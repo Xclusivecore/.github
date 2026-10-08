@@ -1,5 +1,7 @@
 # Xclusive
 
+Xclusive was a community of individuals that existed outside the usual structure of organizations. Over the years, it took different forms and was shaped by the people at its core. Though each member walked a different path, all sought to carry Xclusive forward through their own means.
+
 - **X - Our Mark**  
   X is not merely a letter. It is the sign by which we are known.
 
